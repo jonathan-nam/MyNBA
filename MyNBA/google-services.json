@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1054114829977",
+    "firebase_url": "https://mynba-103f9.firebaseio.com",
+    "project_id": "mynba-103f9",
+    "storage_bucket": "mynba-103f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054114829977:android:880e305bf556d5e2",
+        "android_client_info": {
+          "package_name": "com.example.jonat.list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054114829977-gqog491kqbeie91ja6na8fmseo7musei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jonat.list",
+            "certificate_hash": "33523356d61a08011fe7c053309efb27e31a2e5e"
+          }
+        },
+        {
+          "client_id": "1054114829977-b5174acfb788mpl3me8mrgu4vsjubs92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyH-YUfxpD9sVCjkysvDil6-7h0MVrynY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054114829977-b5174acfb788mpl3me8mrgu4vsjubs92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

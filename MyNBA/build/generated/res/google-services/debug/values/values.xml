@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1054114829977-b5174acfb788mpl3me8mrgu4vsjubs92.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://mynba-103f9.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1054114829977</string>
+    <string name="google_api_key" translatable="false">AIzaSyDyH-YUfxpD9sVCjkysvDil6-7h0MVrynY</string>
+    <string name="google_app_id" translatable="false">1:1054114829977:android:880e305bf556d5e2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDyH-YUfxpD9sVCjkysvDil6-7h0MVrynY</string>
+    <string name="google_storage_bucket" translatable="false">mynba-103f9.appspot.com</string>
+    <string name="project_id" translatable="false">mynba-103f9</string>
+</resources>

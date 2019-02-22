@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 01 03:05:26 EST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\jonat\\AndroidStudioProjects\\List\\MyNBA\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
