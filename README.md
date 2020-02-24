@@ -1,1 +1,1 @@
-# An Android Application for the NBA. Made by me
+# An Android Application for the NBA
